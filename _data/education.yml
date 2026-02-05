@@ -1,0 +1,15 @@
+- degree: Master's with Distinction in Artificial Intelligence
+  uni: University of Bradford
+  year: 2024
+  location: Bradford, UK
+  summary:
+    - Conducted master's dissertation research focused on solar XRAY-flux data preprocessing, fractal interpolation for data imputation, and fractal dimension for self-similarity analysis.
+    - Developed a real-time Streamlit-based predictive system that forecasts solar flares with classification.
+
+- degree: Bachelor's in Computer Science and Engineering
+  uni: North South University
+  year: 2019
+  location: Dhaka, Bangladesh
+  summary:
+    - Completed comprehensive undergraduate program in Computer Science and Engineering.
+    - Built foundational knowledge in algorithms, data structures, software engineering, and computer systems.

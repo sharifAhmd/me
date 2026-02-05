@@ -1,0 +1,36 @@
+- name: Mercor Cheating Detection
+  result: 20th
+  teams: 419
+  date: 2025
+  url: https://www.kaggle.com/competitions/mercor-cheating-detection/writeups/20th-place-solution-write-up
+  description: >
+    Placed 20th out of 419 in a Kaggle competition focused on graph based fraud detection, emphasizing feature engineering over complex modeling.
+    Built a tabular model based on added graph features, and used conservative pseudo-labeling with calibrated ensemble models for final submission.
+
+- name: Nivolytics - AI-Powered Investment Analytics
+  result: Personal Project
+  teams: N/A
+  date: 2025
+  url: https://github.com/sharifAhmd/nivolytics
+  description: >
+    Built Nivolytics, an AI-powered investment analytics platform using FastAPI, Vue.js, and Perplexity AI's Sonar models for real-time and deep financial insights.
+    Integrated LLM-based analysis for instant portfolio summaries, multi-source due diligence, and intelligent investment research.
+
+- name: Solar Flare Prediction System
+  result: Master's Dissertation
+  teams: N/A
+  date: 2024
+  url: https://github.com/sharifAhmd/dissertation
+  description: >
+    Conducted master's dissertation research focused on pre-processing solar XRAY-flux data, fractal interpolation for data imputation,
+    fractal dimension for self-similarity analysis, and a <a href="https://dissertation-solar-flare-prediction-30-min.streamlit.app/">real-time</a>
+    Streamlit-based predictive system that forecasts solar flares with classification.
+
+- name: Cohere Prompt Challenge
+  result: Winner
+  teams: N/A
+  date: 2023
+  url: https://cohere.com/coral
+  description: >
+    Won the Cohere Prompt Challenge. The task involved testing and challenging the Cohere Coral chat to identify vulnerabilities,
+    such as generating misinformation, inducing hallucinations, and generating responses it is designed to avoid.

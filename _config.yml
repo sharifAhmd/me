@@ -1,0 +1,36 @@
+# Site settings
+title: "Sharif Ahamed | Machine Learning Engineer"
+description: "Sharif Ahamed | Machine Learning Engineer"
+
+# Plugin settings
+plugins:
+  - jekyll-redirect-from
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_name: "Sharif Ahamed"
+resume_title: "Machine Learning Engineer"
+
+resume_header_intro:
+  <p>Machine Learning Engineer with 3+ years of experience in building data-driven systems and backend APIs. Skilled in ML, deep learning, LLMs, agentic AI, and inference optimization for efficient model deployment. Actively seeking ML or applied AI roles focused on LLMs, agentic systems, and scalable AI solutions.</p>
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_competitions:    true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url: "https://github.com/sharifAhmd"
+  resume_linkedin_url: "https://www.linkedin.com/in/sharifahamed/"
+resume_print_social_links: true
+
+# Design settings
+resume_theme:                   default

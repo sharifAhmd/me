@@ -1,0 +1,22 @@
+- company: Amazon Fulfilment Centre
+  position: Team Lead, L3
+  duration: August 2024 &mdash; February 2026
+  location: Leeds, UK (Full-Time)
+  summary:
+    - Did this just to make the money; but learned a ton regarding working in high paced environment where millions  of orders are process.
+    - Improved my leadership skill a lot by building and managing my own team and at the same time maintaining Amazon standard of work in terms safety and efficiency.
+    - Led a team of 25 associates on Amazon's robotics floor, managing daily fulfillment operations and ensuring smooth coordination with automated systems.
+    - Oversaw shift execution and safety for 500+ associates around autonomous robotics system.
+    - Maintained KPIs related to system uptime, throughput, and floor efficiency.
+
+- company: Gigalogy Inc
+  position: Machine Learning Engineer
+  duration: March 2020 &mdash; December 2022, May 2023 &mdash; August 2024
+  location: Hybrid (Full-Time)
+  summary:
+    - Improved the multilingual and multi-modal data processing pipeline used for dynamic RAG based chat system called <a href="https://gigalogy.com/maira-platform/">Maira</a>.
+    - Optimized dynamic prompt generation for diverse products, which significantly improved model response and adaptability across different tasks.
+    - Developed and deployed cost-effective BERT-based classifiers to filter approximately 30% to 50% (depending on clients) of simple user requests, significantly decreasing dependency on resource intensive and costly large models through LLM routing.
+    - Led development of a local and cloud-based system for SFT based fine-tuning of LLMs, integrating performance monitoring and chat support.
+    - Optimized time to first token from 900ms-1200ms to 400ms using continuous batching, prompt compression, and model quantization.
+    - Started as founding engineer and collaborated on the development of a REST API-based backend system for a dynamic <a href="https://gigalogy.com/personalization-platform/">personalization platform</a> that offers multiple services, including personalized search, image search, and dynamic pricing.
