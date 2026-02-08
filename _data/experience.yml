@@ -14,9 +14,7 @@
   duration: March 2020 &mdash; December 2022, May 2023 &mdash; August 2024
   location: Hybrid (Full-Time)
   summary:
-    - Improved the multilingual and multi-modal data processing pipeline used for dynamic RAG based chat system called <a href="https://gigalogy.com/maira-platform/">Maira</a>.
-    - Optimized dynamic prompt generation for diverse products, which significantly improved model response and adaptability across different tasks.
-    - Developed and deployed cost-effective BERT-based classifiers to filter approximately 30% to 50% (depending on clients) of simple user requests, significantly decreasing dependency on resource intensive and costly large models through LLM routing.
-    - Led development of a local and cloud-based system for SFT based fine-tuning of LLMs, integrating performance monitoring and chat support.
-    - Optimized time to first token from 900ms-1200ms to 400ms using continuous batching, prompt compression, and model quantization.
-    - Started as founding engineer and collaborated on the development of a REST API-based backend system for a dynamic <a href="https://gigalogy.com/personalization-platform/">personalization platform</a> that offers multiple services, including personalized search, image search, and dynamic pricing.
+    - Improved the multilingual and multi-modal data processing pipeline for a dynamic RAG-based chat system (<a href="https://gigalogy.com/maira-platform/">Maira</a>). Optimized dynamic prompt generation for 10+ products, significantly improving model response and adaptability across different tasks.
+    - Developed and deployed cost-effective BERT-based classifiers to filter approximately 30% to 50% of simple user requests (depending on clients), significantly decreasing dependency on resource-intensive large models through LLM routing.
+    - Led development of a local and cloud-based system for SFT-based fine-tuning of LLMs, integrating performance monitoring and chat support. Optimized time to first token from 900ms–1200ms to 400ms using continuous batching, prompt compression, and model quantization.
+    - Built the REST API-based core backend system for a dynamic <a href="https://gigalogy.com/personalizer-platform/">personalization platform</a> offering personalized search, image search, and dynamic pricing.

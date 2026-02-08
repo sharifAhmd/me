@@ -1,0 +1,11 @@
+- category: Languages
+  description: Advanced in Python. Familiar with C++, Rust.
+
+- category: ML & Deep Learning
+  description: PyTorch, Hugging Face, LLMs, RAG, Fine-tuning, Inference Optimization, Agentic AI.
+
+- category: Cloud & DevOps
+  description: AWS, Docker, CI/CD, Git.
+
+- category: Databases
+  description: PostgreSQL, MySQL, ElasticSearch, Vector Databases.
